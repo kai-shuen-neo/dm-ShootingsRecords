@@ -2,7 +2,7 @@
 
 ## Analysis of shootings records
 
-Data set taken from: fatal-police-shootings-data1.csv
+Data set taken from: fatal-police-shootings-data.csv
 
 Objectives:
 1. Statistical exploration of shootings data using data mining methods for data pre-processing and analysis
