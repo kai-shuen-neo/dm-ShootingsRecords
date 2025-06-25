@@ -16,6 +16,8 @@ Random Forest, Decision Tree
 
 #### References
 To view dataset, open: fatal-police-shootings-data.csv
+
 To view code, open: analysis.R
+
 To view report, open: Final_Report_Group_8.pdf
 
