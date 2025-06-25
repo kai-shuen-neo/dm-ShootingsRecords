@@ -1,10 +1,10 @@
-# Data-Mining-and-Discovery
+# Data Mining and Discovery
 
 ## Analysis of shootings records
 
 Data set taken from: fatal-police-shootings-data.csv
 
-Objectives:
+#### Objectives
 1. Statistical exploration of shootings data using data mining methods for data preprocessing and analysis
 2. Formulate null hypothesis and alternate hypothesis
 3. Observe for associations between items in dataset using Apriori algorithm to mine
@@ -13,4 +13,9 @@ Objectives:
 6. Run models for prediction
 
 
-Models used: Random Forest, Decision Tree
+#### Models used
+Random Forest, Decision Tree
+
+#### References
+
+
