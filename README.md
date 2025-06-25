@@ -12,7 +12,8 @@
 
 
 #### Models used
-Random Forest, Decision Tree
+- Random Forest
+- Decision Tree
 
 #### References
 - To view dataset: [fatal-police-shootings-data.csv](https://github.com/kai-shuen-neo/dm-ShootingsRecords/blob/main/fatal-police-shootings-data.csv)
