@@ -3,6 +3,8 @@
 ## Analysis of shootings records
 
 #### Objectives
+
+#### Tasks
 1. Statistical exploration of shootings data using data mining methods for data preprocessing and analysis
 2. Formulate null hypothesis and alternate hypothesis
 3. Observe for associations between items in dataset using Apriori algorithm to mine
