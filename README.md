@@ -2,8 +2,6 @@
 
 ## Analysis of shootings records
 
-Data set taken from: fatal-police-shootings-data.csv
-
 #### Objectives
 1. Statistical exploration of shootings data using data mining methods for data preprocessing and analysis
 2. Formulate null hypothesis and alternate hypothesis
@@ -17,5 +15,7 @@ Data set taken from: fatal-police-shootings-data.csv
 Random Forest, Decision Tree
 
 #### References
-
+To view dataset, open: fatal-police-shootings-data.csv
+To view code, open: analysis.R
+To view report, open: Final_Report_Group_8.pdf
 
