@@ -15,9 +15,7 @@
 Random Forest, Decision Tree
 
 #### References
-To view dataset: [fatal-police-shootings-data.csv](https://github.com/kai-shuen-neo/dm-ShootingsRecords/blob/main/fatal-police-shootings-data.csv)
-
-To view code: [analysis.R](https://github.com/kai-shuen-neo/dm-ShootingsRecords/blob/main/analysis.R)
-
-To view report: [Final_Report_Group_8.pdf](https://github.com/kai-shuen-neo/dm-ShootingsRecords/blob/main/Final_Report_Group_8.pdf)
+- To view dataset: [fatal-police-shootings-data.csv](https://github.com/kai-shuen-neo/dm-ShootingsRecords/blob/main/fatal-police-shootings-data.csv)
+- To view code: [analysis.R](https://github.com/kai-shuen-neo/dm-ShootingsRecords/blob/main/analysis.R)
+- To view report: [Final_Report_Group_8.pdf](https://github.com/kai-shuen-neo/dm-ShootingsRecords/blob/main/Final_Report_Group_8.pdf)
 
