@@ -19,5 +19,5 @@ To view dataset, open: fatal-police-shootings-data.csv
 
 To view code, open: analysis.R
 
-To view report, open: Final_Report_Group_8.pdf
+To view report, open: [Final_Report_Group_8.pdf](https://github.com/kai-shuen-neo/dm-ShootingsRecords/blob/main/Final_Report_Group_8.pdf)
 
